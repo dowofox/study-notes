@@ -6,11 +6,5 @@
 
 ## 📂 Contents
 
-### Python
-- [Python 기초](./python/basic.md)
-
-### Algorithm
-- [BFS](./algorithm/bfs.md)
-
 ### Data Structure
 - [자료구조](./DataStructure/basic.md)
