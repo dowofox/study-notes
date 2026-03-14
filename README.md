@@ -11,3 +11,6 @@
 
 ### Algorithm
 - [BFS](./algorithm/bfs.md)
+
+### Data Structure
+- [자료구조] (./DataStructure/noob.md)
