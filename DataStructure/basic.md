@@ -131,8 +131,11 @@
 - 마지막 깊이를 제외한 모든 깊이의 노드가 완전히 채워져 있는 트리
 
 ###### 이진 트리의 순회
-
-
+| 종류 | 순서 |
+|-----|-------|
+| 전위 순회(Pre-order) | Root > Left > Right |
+| 중위 순회(In-order | Left > Root > Right |
+| 후위 순회(Post-order | Left > Right > Root |
 
 #### 그래프
 
