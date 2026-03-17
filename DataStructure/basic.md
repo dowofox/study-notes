@@ -137,6 +137,19 @@
 | 중위 순회(In-order | Left > Root > Right |
 | 후위 순회(Post-order | Left > Right > Root |
 
+###### 이진 수식 트리
+- 산술식을 계산하기 위해 이진트리에 기억시키는 방법
+
+    +
+   / \
+  A   B
+  
+| 종류 | 순서 | 예시 |
+|-----|-------|------|
+| 전위 순회(Pre-Fix) | Root > Left > Right | +AB |
+| 중위 순회(In-Fix) | Left > Root > Right | A+B |
+| 후위 순회(Post-Fix) | Left > Right > Root | AB+ |
+
 #### 그래프
 
 ### 파일구조
